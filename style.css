@@ -201,12 +201,12 @@ body{
 .video-container{
     width: 80%;
     margin-top: 100px;
-    margin-left: 75px;
+    margin-left: 30px;
     padding: 20px;
     height:auto;
    display:flex;
 flex-direction:column;
-  overflow-x: hidden;
+  /*overflow-x: hidden;*/
 
 }
 
